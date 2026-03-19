@@ -1,3 +1,5 @@
+#if 0
+//정올 - 1681 해밀턴 순환회로 https://jungol.co.kr/problem/1681
 #define MAX_N (13+1)
 #include "___AAA___.h"
 #include <limits.h>
@@ -65,3 +67,4 @@ int main(void) {
 
 	return 0;
 }
+#endif // 0
