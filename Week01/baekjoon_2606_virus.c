@@ -1,4 +1,4 @@
-//백준 - 바이러스 #2606
+//백준 - 바이러스 #2606 https://www.acmicpc.net/problem/2606
 #if 0
 #define MAX_N (100+1)
 #define _CRT_SECURE_NO_WARNINGS
